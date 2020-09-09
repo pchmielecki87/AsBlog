@@ -1,1 +1,1 @@
-# AsBlog
+Blog autoetnograficzny ASa
