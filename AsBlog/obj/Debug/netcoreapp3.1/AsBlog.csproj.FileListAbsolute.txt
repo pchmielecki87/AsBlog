@@ -1,37 +1,73 @@
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.exe
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.deps.json
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.runtimeconfig.json
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.runtimeconfig.dev.json
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.dll
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.pdb
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.Views.dll
-D:\Git\PC TechBrain\AsBlog\AsBlog\bin\Debug\netcoreapp3.1\AsBlog.Views.pdb
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.csprojAssemblyReference.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.AssemblyInfoInputs.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.AssemblyInfo.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.csproj.CoreCompileInputs.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.MvcApplicationPartsAssemblyInfo.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.RazorAssemblyInfo.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.RazorAssemblyInfo.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.TagHelpers.input.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.TagHelpers.output.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.RazorCoreGenerate.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.RazorTargetAssemblyInfo.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.RazorTargetAssemblyInfo.cs
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.Views.pdb
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\staticwebassets\AsBlog.StaticWebAssets.Manifest.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\staticwebassets\AsBlog.StaticWebAssets.xml
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.dll
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.pdb
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.genruntimeconfig.cache
-D:\Git\PC TechBrain\AsBlog\AsBlog\obj\Debug\netcoreapp3.1\AsBlog.csproj.CopyComplete
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.exe
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.deps.json
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.runtimeconfig.json
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.runtimeconfig.dev.json
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.dll
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.pdb
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.Views.dll
+D:/Git/PC TechBrain/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.Views.pdb
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.csprojAssemblyReference.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.AssemblyInfoInputs.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.AssemblyInfo.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.csproj.CoreCompileInputs.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.MvcApplicationPartsAssemblyInfo.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorAssemblyInfo.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorAssemblyInfo.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.TagHelpers.input.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.TagHelpers.output.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorCoreGenerate.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorTargetAssemblyInfo.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorTargetAssemblyInfo.cs
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.Views.pdb
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/staticwebassets/AsBlog.StaticWebAssets.Manifest.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/staticwebassets/AsBlog.StaticWebAssets.xml
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.dll
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.pdb
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.genruntimeconfig.cache
+D:/Git/PC TechBrain/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.csproj.CopyComplete
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.deps.json
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.runtimeconfig.json
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.runtimeconfig.dev.json
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.dll
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.pdb
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.Views.dll
+/Users/pchmielecki87/Git/AsBlog/AsBlog/bin/Debug/netcoreapp3.1/AsBlog.Views.pdb
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.csprojAssemblyReference.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.AssemblyInfoInputs.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.AssemblyInfo.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.csproj.CoreCompileInputs.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.MvcApplicationPartsAssemblyInfo.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorAssemblyInfo.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorAssemblyInfo.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.TagHelpers.input.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.TagHelpers.output.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorCoreGenerate.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorTargetAssemblyInfo.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.RazorTargetAssemblyInfo.cs
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.Views.pdb
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/staticwebassets/AsBlog.StaticWebAssets.Manifest.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/staticwebassets/AsBlog.StaticWebAssets.xml
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.dll
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.pdb
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.genruntimeconfig.cache
+/Users/pchmielecki87/Git/AsBlog/AsBlog/obj/Debug/netcoreapp3.1/AsBlog.csproj.CopyComplete
